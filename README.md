@@ -1,6 +1,8 @@
 ## Objective
 Identify named-entity (organization and person) from company annual report in Chinese, and their person-person and person-organization relations.
 
+This is a baseline work.
+
 ## Work flow, precision, and actionable discussed
 
 ![](https://raw.githubusercontent.com/rmwkwok/chinese_nlp_annual_report/main/report.png)
