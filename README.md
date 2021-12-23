@@ -1,5 +1,5 @@
 ## Objective
-Identify named-entity (organization and person) from company annual report in Chinese, and their person-person and person-organization relations.
+Identify named-entities (organization and person) from company annual reports in Chinese, and their person-person and person-organization relations.
 
 This is a baseline work.
 
