@@ -39,8 +39,8 @@ This is a baseline work.
 
 ## Tech
 
-1. NER Model (WC-LSTM) trained with Chinese Resume dataset. Resume data is chosen for similarity to personal introductions in annual reports.
+1. NER Model (WC-LSTM) trained with Chinese Resume dataset ([Credit](https://github.com/zerohd4869/Chinese-NER)). Resume data is chosen for similarity to personal introductions in annual reports.
 
-2. Relation extraction model (Bert) trained with a dataset of various types of interpersonal relationships. It was chosen to mainly discover interpersonal relations. 
+2. Relation extraction model (Bert) trained with a dataset of various types of interpersonal relationships ([Credit](https://github.com/Jacen789/relation-extraction)). It was chosen to mainly discover interpersonal relations. 
 
 3. Python 3.8.10, pytorch 1.10.1+cpu
